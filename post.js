@@ -1,6 +1,6 @@
 
-        const formElement = document.getElementById('my-form');
-    const whurl = 'https://discord.com/api/webhooks/1121888454867959978/SlauwbctwAQFh69tn4_UpVyT2CYmZm_lpGBP3_9h7_BRaCqEUcNNfwI1kbWKEX15q7SO';
+    const formElement = document.getElementById('my-form');
+    const whurl = '';
 
     formElement.addEventListener('submit', (event) => {
       event.preventDefault();
